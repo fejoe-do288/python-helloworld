@@ -48,4 +48,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: fejoe-do288/python-helloworld:latest
+          tags: fejoe/python-helloworld:latest
